@@ -15,6 +15,7 @@
   "ftso_info": {
     "chainId": 14,
     "address": "0xb084575CaCedf7DEdd78329656715651F8f66712",
+	 "claim_addresses": ["0xb084575CaCedf7DEdd78329656715651F8f66712"],
     "epoch": 105
   }
 }
