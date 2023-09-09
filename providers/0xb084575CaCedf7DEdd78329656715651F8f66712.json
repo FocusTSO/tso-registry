@@ -1,0 +1,19 @@
+{
+  "name": "FocusTSO",
+  "website": "https://flr.globalfcx.com",
+  "members": 3,
+  "country": "Poland",
+  "description": "FocusTSO. Data provider built by Focus Global.",
+  "logoURI": "https://ftso.focusflr.app/focustso.png",
+  "ftso_info": {
+    "chainId": 16,
+    "address": "0xb084575CaCedf7DEdd78329656715651F8f66712"
+	 "epoch": 105
+  }
+  "nodes": 3,
+  "twitter": "https://twitter.com/FocusTSO",
+  "general": "FocusTSO. Data provider built by Focus Global Team of developers and Polish Flare community members who run an educational portal in Polish , English and Japanese. The team also provide tools like Airdrop Simulator and recently released Delegation Portal.",
+  "infrastructure": "Our infrastructure is built on 3 Hetzner VPSs based in various locations in Europe. Flare and Songbird TSO have their own server and for testing purposes we use separate server. To expand our project and build the planned applications and portal we will need some additional resources. The current infrastructure/licences costs are approx. 400$/mo . Our current operational Focus Global project costs are estimated to be over 2000$/mo and we did not switch to full time yet. Many things cannot be valued because we do it with our own skills and experience.",
+  "tooling": "FocusTSO has very ambitious plans to build on the Flare Network. Launching FTSO was just the first milestone. For now, improving the algorithm for price predictions is our main priority. FocusTSO started on the Flare Network first because the majority of the community holds FLR tokens instead of SGB. However, we plan to launch on Songbird in the very near future. Our goal is to build tools, help support infrastructure, and continue to produce educational content to help people understand the technical aspects of the network.",
+  "products": ["https://focusflr.app","https://ftso.focusflr.app","https://sgb.focusflr.app","https://coston2.focusflr.app"]
+}
